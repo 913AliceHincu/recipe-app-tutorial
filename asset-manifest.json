@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recipe-app-tutorial/static/css/main.052fc8d7.chunk.css",
+    "main.js": "/recipe-app-tutorial/static/js/main.209f37fa.chunk.js",
+    "main.js.map": "/recipe-app-tutorial/static/js/main.209f37fa.chunk.js.map",
+    "runtime-main.js": "/recipe-app-tutorial/static/js/runtime-main.bfb1ee30.js",
+    "runtime-main.js.map": "/recipe-app-tutorial/static/js/runtime-main.bfb1ee30.js.map",
+    "static/js/2.d43c8431.chunk.js": "/recipe-app-tutorial/static/js/2.d43c8431.chunk.js",
+    "static/js/2.d43c8431.chunk.js.map": "/recipe-app-tutorial/static/js/2.d43c8431.chunk.js.map",
+    "static/js/3.f0b8ce46.chunk.js": "/recipe-app-tutorial/static/js/3.f0b8ce46.chunk.js",
+    "static/js/3.f0b8ce46.chunk.js.map": "/recipe-app-tutorial/static/js/3.f0b8ce46.chunk.js.map",
+    "index.html": "/recipe-app-tutorial/index.html",
+    "static/css/main.052fc8d7.chunk.css.map": "/recipe-app-tutorial/static/css/main.052fc8d7.chunk.css.map",
+    "static/js/2.d43c8431.chunk.js.LICENSE.txt": "/recipe-app-tutorial/static/js/2.d43c8431.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfb1ee30.js",
+    "static/js/2.d43c8431.chunk.js",
+    "static/css/main.052fc8d7.chunk.css",
+    "static/js/main.209f37fa.chunk.js"
+  ]
+}
